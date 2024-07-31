@@ -16,13 +16,13 @@ body {
   padding: 0 15px;
 }
 
-/ Package Section /
+/* Package Section */
 #our-package {
   padding: 50px 0;
 }
 
 .package-banner {
-  background-image: url('path/to/your/banner-image.jpg'); / Replace with your banner image path /
+  background-image: url('path/to/your/banner-image.jpg'); /* Replace with your banner image path */
   background-size: cover;
   background-position: center;
   padding: 60px 0;
@@ -58,8 +58,8 @@ body {
 
 .package-icon {
   font-size: 50px;
-  color: #ff7f50; / Coral color for the icons /
-  margin-bottom: 15px;
+  color: #ff7f50; /* Coral color for the icons */
+  margin-bottom:15px;
 }
 
 .package-content h3 {
